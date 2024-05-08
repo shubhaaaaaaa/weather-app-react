@@ -10,7 +10,7 @@ A real time weather application that fetches and displays weather data from Open
  ## Screenshots
 This is what the application looks like. You can find the weather details of different locations by simply searching it from the search bar.
 
-![App Screenshot]([https://github.com/shubhaaaaaaa/MyPersonal_Site/blob/main/assets/img/joinus.png](https://github.com/shubhaaaaaaa/weather-app-react/blob/main/src/Components/assets/screenshots/App%20Screenshot.png)
+![App Screenshot](https://github.com/shubhaaaaaaa/weather-app-react/blob/main/src/Components/assets/screenshots/App%20Screenshot.png)
  
 ## Feedback
 
