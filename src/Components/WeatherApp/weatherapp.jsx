@@ -103,9 +103,9 @@ const MyComponent = () => {
                 <div className="day-date text-sm ">Saturday, 13 April 2024</div>
             </div>
 
-            <div className="main-portion py-10">
+            <div className="main-portion py-10 pe-10">
                 <div className="weather-image">
-                    <img src={wicon} className="h-44" alt="" />
+                    <img src={wicon} className="h-40" alt="" />
                 </div>
                 <div className="weather-detail text-center">
                     <p className="p font-bold text-6xl temperature">27&deg;C</p>
@@ -113,12 +113,12 @@ const MyComponent = () => {
                 </div>
             </div>
 
-            <div className="elements-portion flex justify-evenly py-2 text-white bg-white bg-opacity-20 mx-5 rounded-lg">
-                <div className=" border-r pr-10">
+            <div className="elements-portion flex justify-evenly py-2 text-white bg-white bg-opacity-20 mx-9 rounded-lg">
+                <div className=" border-r pr-8">
                     <div className="font-bold text-lg wind">18 km/h</div>
                     <span className="text-sm opacity-80">Wind</span>
                 </div>
-                <div className="border-r pr-10">
+                <div className="border-r pr-8">
                     <div className="font-bold text-lg highlow">17/27&deg;C</div>
                     <span className="text-sm opacity-80">High/Low</span>
                 </div>
@@ -140,7 +140,7 @@ const MyComponent = () => {
                         <img src={images['linkedin-icon']} className="h-5" alt="LinkedIn" />
                     </a>
                 </div>
-                <div className="copyright text-sm pt-4">
+                <div className="copyright text-sm pt-4 pb-4">
                     <p>
                         &#169;2024 <a className="hover:underline" href="https://shubhakhadgi.com.np/" rel="noopener noreferrer" target="_blank">Shubha Khadgi</a> | All rights reserved
                     </p>
