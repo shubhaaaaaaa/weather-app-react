@@ -85,7 +85,7 @@ const MyComponent = () => {
     }
 
     return (
-        <div className="container relative">
+        <div className="container relative w-36">
 
             <div className="header-portion pl-3">
                 <div className="logoImage">

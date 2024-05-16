@@ -1,7 +1,7 @@
 .container {
   margin: 2rem auto;
   height: 40rem;
-  width: 30rem;
+  width: 30rem!important;
   border-radius: 1rem;
   background: linear-gradient(
     180deg,
@@ -68,34 +68,3 @@
     width: 25rem;
   }
 }
-
-  /* Tablets (Large Screens) */
-  @media screen and (max-width: 1280px) {
-  .container{
-    margin: 8rem auto;
-    width: 35rem;
-  }
-  
-  .footer-portion {
-    left: 10rem;
-  }
-
-  .cityInput {
-    width: 25rem;
-  }
-}
-
-@media (min-width: 1536px) {
-  .container{
-    margin: 8rem auto;
-    width: 35rem;
-  }
-  
-  .footer-portion {
-    left: 10rem;
-  }
-
-  .cityInput {
-    width: 25rem;
-  }
-  }

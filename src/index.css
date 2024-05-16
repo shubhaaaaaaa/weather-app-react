@@ -13,39 +13,3 @@ code {
     monospace;
 }
 
-.container {
-  margin: 2rem auto;
-  height: 40rem;
-  width: 30rem;
-  border-radius: 1rem;
-  background: linear-gradient(
-    180deg,
-    rgba(9, 9, 121, 1) 0%,
-    rgba(0, 212, 255, 1) 100%
-    );
-    padding-top: 2rem;
-  }
-
-.cityInput {
-  height: 3rem;
-  width: 21rem;
-  border-radius: 2rem;
-  margin: 0 0.5rem 0 1rem;
-}
-
-.searchIcon img {
-  padding-top: 1rem;
-  height: 20px;
-}
-
-.logoImage img {
-  height: 50px;
-}
-
-.main-portion, .header-portion{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  color: white;
-}
