@@ -68,3 +68,19 @@
     width: 25rem;
   }
 }
+
+  /* Tablets (Large Screens) */
+  @media screen and (min-width: 1024px) {
+  .container{
+    margin: 8rem auto;
+    width: 35rem;
+  }
+  
+  .footer-portion {
+    left: 10rem;
+  }
+
+  .cityInput {
+    width: 25rem;
+  }
+}

@@ -49,37 +49,3 @@ code {
 
   color: white;
 }
-
-  
-  /* Phones (Small Screens) */
-  @media screen and (max-width: 640px) {
-    .container{
-      margin: 5rem auto;
-      width: 25rem;
-    }
-
-    .footer-portion {
-      left: 4.5rem;
-    }
-
-    .cityInput {
-      width: 18rem;
-    }
-
-  }
-  
-  /* Tablets (Medium Screens) */
-  @media screen and (min-width: 641px) and (max-width: 1024px) {
-  .container{
-    margin: 8rem auto;
-    width: 35rem;
-  }
-  
-  .footer-portion {
-    left: 10rem;
-  }
-
-  .cityInput {
-    width: 25rem;
-  }
-}
