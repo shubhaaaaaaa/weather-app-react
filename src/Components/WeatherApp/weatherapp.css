@@ -84,3 +84,18 @@
     width: 25rem;
   }
 }
+
+@media (min-width: 1536px) {
+  .container{
+    margin: 8rem auto;
+    width: 35rem;
+  }
+  
+  .footer-portion {
+    left: 10rem;
+  }
+
+  .cityInput {
+    width: 25rem;
+  }
+  }
