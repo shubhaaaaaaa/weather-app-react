@@ -70,7 +70,7 @@
 }
 
   /* Tablets (Large Screens) */
-  @media screen and (min-width: 1024px) {
+  @media screen and (max-width: 1280px) {
   .container{
     margin: 8rem auto;
     width: 35rem;
